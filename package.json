@@ -7,6 +7,6 @@
     "node-red": "^0.18.4"
   },
   "scripts": {
-        "start": "node-red --port 80"
+        "start": "node-red --port 1880"
 }
 }

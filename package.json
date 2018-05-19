@@ -1,0 +1,11 @@
+{
+  "name": "node-red-webapp",
+  "version": "1.0.0",
+  "description": "A webapp wrapper for running node-red in an Azure Web App",
+  "main": "server.js",
+  "dependencies": {
+    "node-red": "^0.18.4"
+  },
+  "scripts": {
+        "start": "node-red --port 80"
+}
